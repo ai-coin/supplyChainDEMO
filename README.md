@@ -1,2 +1,0 @@
-# supplyChainDEMO
-eth demo
